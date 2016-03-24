@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[thatraynerlad]]></title>
+        <description><![CDATA[thatraynerlad]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 24 Mar 2016 19:44:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Meanwhile in New Zealand we've just spent $20 million on a referendum about our flag - which we've kept - and the government has appointed some largely unknown person to be our next Governor General. Go figure!</p>]]></description>
+            <link>undefined37fcfb94-292d-4417-b642-90db5a35a438/index.html</link>
+            <guid isPermaLink="false">37fcfb94-292d-4417-b642-90db5a35a438</guid>
+            <pubDate>Thu, 24 Mar 2016 19:44:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
