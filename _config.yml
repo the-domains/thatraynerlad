@@ -1,6 +1,6 @@
 name: thatraynerlad
 favicon: null
-layout_spectrum: 0.25253
+layout_spectrum: 0.5798043885733932
 typography_spectrum: 0.9593443106859922
 title: thatraynerlad
 cta:
@@ -22,8 +22,8 @@ color:
     - '#fcc34f'
     - '#8a3c00'
     - '#371f15'
-  brandStrength: 0.5625
+  brandStrength: 0.9754539842251688
   lightness: 0.6023389766924083
-  saturation: 0.5
+  saturation: 0.19603313086554408
   rhythmicContrast: 0.5
 purpose: []
