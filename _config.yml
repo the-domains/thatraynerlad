@@ -1,0 +1,28 @@
+name: thatraynerlad
+favicon: null
+layout_spectrum: 0.5798043885733932
+typography_spectrum: 0.9593443106859922
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9754539842251688
+  lightness: 0.6023389766924083
+  saturation: 0.19603313086554408
+  rhythmicContrast: 0.5805395236238837
+purpose: []
