@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.1960331308655441
-  brandStrength: 0.5
-  rhythmicContrast: 0.5
+  brandStrength: 0.8283208
+  lightness: 0.6023389766924083
   brandColors:
     - '#000000'
     - '#ffffff'
     - '#fcc34f'
     - '#8a3c00'
     - '#371f15'
-  lightness: 0.6023389766924083
+  rhythmicContrast: 0.5
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: thatraynerlad
 favicon: null
+name: thatraynerlad
 opengraph:
   image: null
   type: null
